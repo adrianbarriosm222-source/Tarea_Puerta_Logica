@@ -38,6 +38,5 @@ int main() {
             cout << "Acceso denegado." << endl;
         }
     }
-
     return 0;
 }
